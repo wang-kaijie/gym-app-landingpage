@@ -15,6 +15,7 @@
     }
 </script>
 
+
 {#if $openModal}
     <div
         class="fixed top-0 left-0 w-screen h-screen border-b bg-white z-50 flex flex-col gap-8 p-5 px-8 md:hidden"
