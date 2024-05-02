@@ -16,6 +16,8 @@
             data-bs-dismiss="alert"
             aria-label="Close"
         ></button>
+    <p></p>
+    <small class="text-muted">Help Text</small>
     
         <strong><a
             href="#"
