@@ -6,9 +6,4 @@
     <Hero />   
     <p>hello hello hello world</p>
     <p>hello hello hello kaijie</p>
-    <p>hello hello hello</p>
-    <p>hello hello hello</p>
-    <p>hello hello hello</p>
-    <p>hello hello hello</p>
-    <p>hello hello hello</p>
 </main>
