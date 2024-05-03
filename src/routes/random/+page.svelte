@@ -5,4 +5,5 @@
 <main class="flex flex-col">
     <Hero />
     <p>hello wolrdodhasodhasohi</p>
+    <p>moshi moshi</p>
 </main>
