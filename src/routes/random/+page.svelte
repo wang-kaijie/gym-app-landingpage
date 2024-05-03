@@ -4,7 +4,7 @@
 
 <main class="flex flex-col">
     <Hero />   
-    <p>goodbye world</p>
-    <p>goodbye kaijie</p>
-    <p>goodbye</p>
+    <p>hello hello hello world</p>
+    <p>hello hello hello kaijie</p>
+    <p>hello hello hello</p>
 </main>
